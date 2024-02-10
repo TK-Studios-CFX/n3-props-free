@@ -1,7 +1,7 @@
 author 'TK Studios'
 description 'TK Studios - Public props Library by NuK3.'
 url 'https://buy.tkstudios.store'
-version '1.0.3'
+version '1.0.1'
 
 fx_version 'cerulean'
 game {'gta5'}
